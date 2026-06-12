@@ -1,0 +1,6 @@
+{
+  "name": "tv-telegram-bot",
+  "main": "telegram-bot-final.js",
+  "scripts": { "start": "node telegram-bot-final.js" },
+  "dependencies": { "express": "*" }
+}
